@@ -18,7 +18,7 @@ Tú buscas llevar tu negocio al siguiente nivel, yo encuentro la manera de hacer
 
 ## Tecnologías y Lenguajes que suelo utilizar:
 
-![VISUAL STUDIO CODE`f6c435`]
+**Visual studio code**  **HTML**  **CSS**  **JAVASCRIPT**
 
 Linkedln [Pedro Bellido](https://www.linkedin.com/in/pedro-bellido-178915281/)
 
