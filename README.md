@@ -18,7 +18,7 @@ Tú buscas llevar tu negocio al siguiente nivel, yo encuentro la manera de hacer
 
 ## Tecnologías y Lenguajes que suelo utilizar:
 
-![VISUAL STUDIO CODEColor=white&labelColor=101010] 
+![VISUAL STUDIO CODE`f6c435`]
 
 Linkedln [Pedro Bellido](https://www.linkedin.com/in/pedro-bellido-178915281/)
 
