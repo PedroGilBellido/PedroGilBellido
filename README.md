@@ -2,7 +2,7 @@
 
 ![https://github.com/PedroGilBellido](./GithubPanel.png)
 
-Desarrollador frontend con un enfoque creativo y funcional.
+### Desarrollador frontend con un enfoque creativo y funcional.
 A lo largo de mi trayectoria, he adquirido experiencia en Lenguajes como HTML, CSS y Javascript además de utilizar programas como Figma, Adobe Illustrator, Photoshop e InDesign, lo que me ha permitido desarrollar habilidades especializadas en maquetación web, desarrollo de identidades corporativas y optimización de interfaces web.
 
 Mi enfoque resolutivo me ha permitido diseñar y desarrollar entornos web además de logotipos y elementos de branding que capturan la esencia y personalidad de cada empresa con la que colaboro. 
