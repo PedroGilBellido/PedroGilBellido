@@ -16,7 +16,12 @@ Comprometido en brindar un servicio personalizado y de calidad, y como se que to
 
 Tú buscas llevar tu negocio al siguiente nivel, yo encuentro la manera de hacerlo posible.
 
+## Tecnologías y Lenguajes que suelo utilizar:
+
+![VISUAL STUDIO CODEColor=white&labelColor=101010] 
+
 Linkedln [Pedro Bellido](https://www.linkedin.com/in/pedro-bellido-178915281/)
+
 
 Siempre listo para lo que el mundo nos depare!
 Excelsior!
