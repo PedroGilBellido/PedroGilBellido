@@ -25,10 +25,10 @@ Tú buscas llevar tu negocio al siguiente nivel, yo encuentro la manera de hacer
 
 ## Programas de edición y diseño que suelo utilizar:
 
--Figma
--Illustrator
--Indesign
--Photoshop
+- Figma
+- Illustrator
+- Indesign
+- Photoshop
 
 Linkedln [Pedro Bellido](https://www.linkedin.com/in/pedro-bellido-178915281/)
 
