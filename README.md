@@ -16,7 +16,7 @@ Comprometido en brindar un servicio personalizado y de calidad, y como se que to
 
 Tú buscas llevar tu negocio al siguiente nivel, yo encuentro la manera de hacerlo posible.
 
-Linkedln [Pedro Bellido] (https://www.linkedin.com/in/pedro-bellido-178915281/)
+Linkedln [Pedro Bellido](https://www.linkedin.com/in/pedro-bellido-178915281/)
 
 Siempre listo para lo que el mundo nos depare!
 Excelsior!
