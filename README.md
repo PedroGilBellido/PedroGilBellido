@@ -1,4 +1,4 @@
-Como diría kenobi, Hello There!
+# Como diría kenobi, Hello There!
 
 Desarrollador web con un enfoque creativo y funcional. Me apasiona explorar el mundo tecnológico.
 A lo largo de mi trayectoria, he adquirido experiencia en Lenguajes como C++, Css, JavaScript, HTML5, además de utilizar programas como Adobe Illustrator, Photoshop e InDesign, lo que me ha permitido desarrollar habilidades especializadas en maquetación web, desarrollo de identidades corporativas y optimización de interfaces web.
