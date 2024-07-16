@@ -1,5 +1,7 @@
 # Como diría kenobi, Hello There! 
 
+![https://github.com/PedroGilBellido](./GithubPanel.png)
+
 Desarrollador frontend con un enfoque creativo y funcional.
 A lo largo de mi trayectoria, he adquirido experiencia en Lenguajes como HTML, CSS y Javascript además de utilizar programas como Figma, Adobe Illustrator, Photoshop e InDesign, lo que me ha permitido desarrollar habilidades especializadas en maquetación web, desarrollo de identidades corporativas y optimización de interfaces web.
 
