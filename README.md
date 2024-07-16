@@ -18,7 +18,10 @@ Tú buscas llevar tu negocio al siguiente nivel, yo encuentro la manera de hacer
 
 ## Tecnologías y Lenguajes que suelo utilizar:
 
-- VisualStudioCode  - HTML  - CSS - JAVASCRIPT
+- VisualStudioCode
+-  HTML
+-  CSS
+-   JAVASCRIPT
 
 Linkedln [Pedro Bellido](https://www.linkedin.com/in/pedro-bellido-178915281/)
 
