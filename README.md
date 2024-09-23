@@ -3,18 +3,22 @@
 ![https://github.com/PedroGilBellido](./GithubPanelPedroBellido.png)
 
 ### Desarrollador frontend con un enfoque creativo y funcional.
-A lo largo de mi trayectoria, he adquirido experiencia en Lenguajes como HTML, CSS y Javascript además de utilizar programas como Figma, Adobe Illustrator, Photoshop e InDesign, lo que me ha permitido desarrollar habilidades especializadas en maquetación web, desarrollo de identidades corporativas y optimización de interfaces web.
+Como diría kenobi, Hello There!
 
-Mi enfoque resolutivo me ha permitido diseñar y desarrollar entornos web además de logotipos y elementos de branding que capturan la esencia y personalidad de cada empresa con la que colaboro. 
-Disfruto del proceso de investigación y experimentación para encontrar soluciones visuales innovadoras.
+Desarrollador web con un enfoque creativo y funcional. Durante mi trayectoria he adquirido experiencia en Lenguajes como SQL, Css, JavaScript, HTML5. Actualmente estoy profundizando en los lenguajes C++ y Java , en el ámbito del diseño he utilizado programas como Figma,  Adobe Illustrator, Photoshop e InDesign, lo que me ha permitido desarrollar habilidades especializadas en maquetación web, desarrollo de identidades corporativas y optimización de interfaces web.
 
-Hace un tiempo, decidí dar un paso más allá y fundé mi propio estudio. Mi objetivo es ayudar a las empresas a destacar en el mercado actual y a conectarse con su audiencia de una manera única y memorable.
+Mi enfoque resolutivo me ha permitido diseñar y desarrollar tanto entornos web como branding que capturan la esencia y personalidad de cada empresa con la que colaboro. Disfruto del proceso de investigación y experimentación para encontrar soluciones visuales innovadoras.
 
-Ofrezco servicios de desarrollo web, diseño y creación de aplicaciones web de diferentes sectores para aquellos clientes que desean llevar su negocio al siguiente nivel. Creo que la combinación de elementos gráficos tradicionales con las nuevas tecnologías pueden generar resultados sorprendentes y aumentar el impacto de cualquier proyecto.
+Ofrezco servicios de desarrollo web, con diseño y creación de aplicaciones web de diferentes sectores para aquellos clientes que desean llevar su negocio al siguiente nivel. Creo que la combinación de elementos gráficos tradicionales con las nuevas tecnologías pueden generar resultados sorprendentes y aumentar el impacto de cualquier proyecto.
 
-Comprometido en brindar un servicio personalizado y de calidad, y como se que todo poder conlleva una gran responsabilidad, entiendo que cada proyecto es único y me esforzo en captar la esencia de cada cliente para poder materializar sus ideas y sueños.
+La maquetación editorial es otro de los puntos fuertes. Me apasiona crear diseños atractivos y funcionales para libros, revistas y publicaciones digitales. La idea centra en encontrar el equilibrio perfecto entre la estética y la legibilidad, asegurando que el mensaje del contenido se comunique de manera efectiva.
+
+Comprometido en brindar a nuestros clientes un servicio personalizado y de calidad, y como se que todo poder conlleva una gran responsabilidad, entiendo que cada proyecto es único y me esfuerzo por captar la esencia de cada cliente para poder materializar sus ideas y sueños.
 
 Tú buscas llevar tu negocio al siguiente nivel, yo encuentro la manera de hacerlo posible.
+
+Siempre listo para lo que el mundo nos depare!
+Excelsior!
 
 ## Tecnologías y Lenguajes que suelo utilizar:
 
